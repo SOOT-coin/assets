@@ -1,0 +1,10 @@
+{
+  "name": "SOOT",
+  "symbol": "SOOT",
+  "decimals": 18,
+  "description": "A token paired with BNB, long term project with a growing market cap",
+  "website": "https://sootcoin.com",
+  "explorer": "https://bscscan.com/token/0x763c2C604c5dfdBDf5875a090A976D71BbedbB33",
+  "type": "BEP20",
+  "id": "0x763c2C604c5dfdBDf5875a090A976D71BbedbB33"
+}
